@@ -1,0 +1,13 @@
+{
+  "name": "clipboard-history",
+  "description": "A Claude Code pane that keeps your clipboard history, text and screenshots",
+  "owner": {
+    "name": "Leron Lavi"
+  },
+  "plugins": [
+    {
+      "name": "clipboard-history",
+      "source": "./"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "clipboard-history",
+  "version": "0.4.0",
+  "description": "A pane on the right that lists the text and screenshots you copy; press one to copy it again, ✕ to remove it",
+  "author": {
+    "name": "Leron Lavi"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/leronlavi/clipboard-history",
+  "types": "./types/index.d.ts"
+}
